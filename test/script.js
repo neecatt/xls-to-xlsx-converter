@@ -1,0 +1,1 @@
+import convertXlsToXlsx from '../package/index.js';
